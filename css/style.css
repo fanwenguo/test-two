@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background: #666;
+}
+
+.wrap {
+    width: 100%;
+    height: 100%;
+}
+
+.content {
+    width: 90%;
+    height: 400px;
+    margin-left: 5%;
+    margin-top: 130px;
+    background: #fff;
+    border-radius: 6px;
+}
+
+.logo {
+    width: 80%;
+    margin-left: 10%;
+    height: 110px;
+    text-align: center;
+}
+
+.logo img {
+    display: block;
+    width: 135px;
+    height: 44px;
+    margin-left: 70px;
+}
+
+.logo p {
+    margin-top: -15px;
+}
+
+.content form {
+    margin-top: 10px;
+}
+
+.content form p {
+    width: 86%;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 7%;
+    margin-top: 15px;
+    border-bottom: 1px solid #ccc;
+}
+
+.content form p input {
+    border: none;
+    outline: none;
+}
+
+.img1 {
+    display: inline-block;
+    width: 14px;
+    height: 22px;
+}
+
+.img2 {
+    display: inline-block;
+    width: 15px;
+    height: 17px;
+}
+
+.btn {
+    display: block;
+    width: 86%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin-left: 7%;
+    margin-top: 30px;
+    border: none;
+    outline: none;
+    background: darkgreen;
+    color: #fff;
+    border-radius: 6px;
+}
